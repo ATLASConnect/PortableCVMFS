@@ -22,7 +22,7 @@ To use this product, you must first buiild a local copy of PortableCVMFS using "
 
 This will 
 
-	1) Download CVMFS 2.2.3 and configuration script 1.2-3
+	1) Download CVMFS 2.3.5 and configuration script 2.0-1
 	2) Unpack them into a temporary working directory
 	3) Install the configuration and keys files for the MWT2 and Oasis repositories
 	4) Setup a "default.local" to enable these repositories and squids
@@ -39,7 +39,7 @@ By default the tarball is moved to /home/www/download/PortableCVMFS. Edit the sc
 To use PortableCVMFS, you must first unpack the tarball into the target location
 
 	cd /usr/local
-	tar xzf PortableCVMFS-2.2.3.tar.gz
+	tar xzf PortableCVMFS-2.3.5.tar.gz
 
 
 There are several scripts located in PortableCVMFS/bin which will mount/umount the repositories
