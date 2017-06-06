@@ -1,0 +1,1 @@
+CVMFS_KEYS_DIR=${_CVMFS_MOUNT_DIR}/config-osg.opensciencegrid.org/etc/cvmfs/keys/cern.ch
